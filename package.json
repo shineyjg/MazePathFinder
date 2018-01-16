@@ -1,0 +1,15 @@
+{
+  "name": "MazePathFinder",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Vincent Yang (shineyjg@gmail.com)",
+  "license": "GPL v3.0",
+  "description": "genetic algorithm based maze path finder",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}

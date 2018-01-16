@@ -1,0 +1,12 @@
+# MazePathFinder
+> genetic algorithm based maze path finder
+https://github.com/shineyjg/MazePathFinder
+Vincent Yang (shineyjg@gmail.com)
+
+# install dependencies
+  npm install
+  or
+  yarn
+
+# run
+  node main.js
